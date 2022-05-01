@@ -3,7 +3,9 @@ This program will take an input file and either encrypt or decrypt based on the 
 
 # Code Techniques Implemented
 File Read
+
 File Write
+
 Functions
 
 # Things I Learned
